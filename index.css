@@ -201,7 +201,7 @@ input{
  
 /* section three */
 .section-three{
-    background-color:hsla(239, 34%, 55%, 0.8);
+    background-color:hsla(238, 43%, 40%, 0.8);
     color:var(--light-grayish-blue);
     padding: 2em 0;
 }
@@ -246,6 +246,8 @@ input{
 footer{
     background-color: var(--very-dark-blue);
     color: #fff;
+   
+     
 }
 
 .footer-logo{
@@ -404,7 +406,7 @@ footer{
         
     }
     footer{
-        padding: 3em 0 1.5em;
+        padding: 3em 0 1.5em 1.5em;
     }
 
     .footer-content{
